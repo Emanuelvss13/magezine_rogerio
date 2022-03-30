@@ -1,5 +1,9 @@
 # magezine_rogerio
-Checklist
+### Sobre o projeto:
+Um site para vender Macbook.
+> Loja autorizada Eipou.
+---
+###Checklist
 - [x] Monte um Team com pelo menos 3 Desenvolvedores
   * Temistocles, Hallyson, Emanuel
 - [x] Proponha um projeto de até 4h (estimativa de desenvolvimento)

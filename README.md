@@ -1,0 +1,1 @@
+# magezine_rogerio
